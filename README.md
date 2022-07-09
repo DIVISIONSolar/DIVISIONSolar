@@ -1,4 +1,4 @@
-Hey 👋, I'm Josh. I'm currently Learning: HTML, CSS, JavaScript & TypeScript
+Hey 👋, I'm Josh. I'm currently Learning: HTML, CSS, JavaScript & TypeScript || My discord user is: `DIVISION_Solar#2006`
 
 // ----------------- //
 
