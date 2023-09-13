@@ -10,12 +10,19 @@
     <a href="https://billing.glasshost.net/aff.php?aff=16">
         <img src="https://img.shields.io/badge/GlassHost-%23FF0000.svg?style=for-the-badge&logo=glasshost&logoColor=%23FFFFFF" alt="GlassHost">
     </a>
+    <a href="https://ovh.com/">
+         <img src="https://img.shields.io/badge/OVH-%23ADD8E6.svg?style=for-the-badge" alt="OVH">
+    </a>
 </div>
 
 # 📊 GitHub Stats:
-![](https://readme.github.joshsevero.dev/api?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DIVISIONSolar&theme=tokyonight&hide_border=false)<br/>
-![](https://readme.github.joshsevero.dev/api/top-langs/?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://readme.github.joshsevero.dev/api?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false">
+  <img height=200 align="center" src="https://readme.github.joshsevero.dev/api?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+</a>
+<a href="https://readme.github.joshsevero.dev/api/top-langs/?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+  <img height=200 align="center" src="https://readme.github.joshsevero.dev/api/top-langs/?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DIVISIONSolar&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
