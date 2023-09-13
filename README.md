@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 ![](https://readme.github.joshsevero.dev/api?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://readme.github.joshsevero.dev/?user=DIVISIONSolar&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DIVISIONSolar&theme=tokyonight&hide_border=false)<br/>
 ![](https://readme.github.joshsevero.dev/api/top-langs/?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
