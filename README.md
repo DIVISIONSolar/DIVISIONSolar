@@ -13,9 +13,9 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DIVISIONSolar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://readme.github.joshsevero.dev/api?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://readme.github.joshsevero.dev/?user=DIVISIONSolar&theme=tokyonight&hide_border=false)<br/>
+![](https://readme.github.joshsevero.dev/api/top-langs/?username=DIVISIONSolar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DIVISIONSolar&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
