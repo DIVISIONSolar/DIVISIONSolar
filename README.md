@@ -10,9 +10,6 @@
     <a href="https://billing.glasshost.net/aff.php?aff=16">
         <img src="https://img.shields.io/badge/GlassHost-%23FF0000.svg?style=for-the-badge&logo=glasshost&logoColor=%23FFFFFF" alt="GlassHost">
     </a>
-    <a href="https://ovh.com/">
-         <img src="https://img.shields.io/badge/OVH-%23ADD8E6.svg?style=for-the-badge" alt="OVH">
-    </a>
 </div>
 
 # 📊 GitHub Stats:
