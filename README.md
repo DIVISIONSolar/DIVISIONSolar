@@ -7,8 +7,8 @@
     <a href="https://hetzner.com">
         <img src="https://img.shields.io/badge/HETZNER-%23FF0000.svg?style=for-the-badge&logo=hetzner&logoColor=%23FFFFFF" alt="Hetzner">
     </a>
-    <a href="https://billing.glasshost.net/aff.php?aff=16">
-        <img src="https://img.shields.io/badge/GlassHost-%23FF0000.svg?style=for-the-badge&logo=glasshost&logoColor=%23FFFFFF" alt="GlassHost">
+    <a href="https://skylinkhosting.com">
+        <img src="https://img.shields.io/badge/SkylinkHosting-%23FF0000.svg?style=for-the-badge&logo=skylinkhosting&logoColor=%23FFFFFF" alt="SkylinkHosting">
     </a>
 </div>
 
